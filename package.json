@@ -1,0 +1,12 @@
+{
+  "name": "exo_commande",
+  "version": "1.0.0",
+  "description": "Exercice sur un api de gestion des commandes en nodejs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerardo Cella",
+  "license": "ISC"
+}
